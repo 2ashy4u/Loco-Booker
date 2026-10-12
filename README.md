@@ -7,6 +7,13 @@ Two standalone, responsive static website MVPs:
 
 Open either site's `index.html` in a browser to preview it locally. No dependency installation or build command is required.
 
+## Brand themes
+
+The modern layouts retain the original sites' visual themes:
+
+- BookerLAB: its original purple (`#824d9f`), black and white palette, with Oswald headlines and Heebo body text.
+- Loco-Motion Pro: stormy charcoal and metallic gray, red-orange accents, and the original teal (`#3f6f75`) and deep teal (`#1f373b`) section colors.
+
 ## Deploy to Vercel
 
 Import this repository twice to create two separate Vercel projects:
